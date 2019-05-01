@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/modele-example.iml" filepath="$PROJECT_DIR$/modele-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ragul.hello/ragul.hello.iml" filepath="$PROJECT_DIR$/ragul.hello/ragul.hello.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ragul.main/ragul.main.iml" filepath="$PROJECT_DIR$/ragul.main/ragul.main.iml" />
+    </modules>
+  </component>
+</project>
